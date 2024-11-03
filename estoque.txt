@@ -1,0 +1,5 @@
+1 morango 4 5.00
+2 pera 6 1.00
+3 banana 6 9.00
+6 laranja 1 2.00
+7 caja 7 9.00

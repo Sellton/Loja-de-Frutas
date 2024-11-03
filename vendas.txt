@@ -1,0 +1,1 @@
+Código: 3, Nome: banana, Quantidade vendida: 3, Valor total: 27.00
